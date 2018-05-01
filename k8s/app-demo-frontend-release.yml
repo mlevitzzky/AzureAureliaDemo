@@ -43,4 +43,4 @@ spec:
           configMap:
             name: demo-app-frontend-config
       imagePullSecrets:
-        - name: regsecret
+        - name: __regsecret__
