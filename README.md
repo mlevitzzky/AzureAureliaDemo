@@ -1,6 +1,5 @@
 # AzureAureliaDemo
 Demo project for setting up Aurelia App with CI/CD to Azure. Read the full write up [here](http://colinsalmcorner.com/post/aurelia-azure-and-vsts).
-test
 ## Branches:
 If you want to see how the project progressed, you can do so by looking at the code across the different branches. Here's the progression:
 
